@@ -1,1 +1,1 @@
-print("ramadan mubar all ")
+print("ramadan mubark all ")
